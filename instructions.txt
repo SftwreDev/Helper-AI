@@ -1,0 +1,22 @@
+1. Install latest python 3.9 ( get it here : https://www.python.org/ftp/python/3.9.4/python-3.9.4-amd64.exe )
+2. Make sure to check Add to path checkbox when installing python
+3. Download the github repository file.
+4. Go to that directory
+5. Open cmd inside of that directory
+6. run this in your cmd terminal : 
+   6.1. pip install -r requirements.txt
+   6.2. pip install PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+7. type this in your cmd terminal
+   7.1. python main.py
+
+
+
+** Command **
+
+1. Open Google = " open google "
+2. Current Time = "what time is it"
+3. Open Facebook = "open facebook"
+4. Weather Forecast in Lipa = "what is weather today"
+5. If system says " Sir Gian, do you have another request ? "
+   5.1. say "yes" to continue
+    5.2. say "nothing" to exit
